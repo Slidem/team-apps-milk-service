@@ -8,7 +8,7 @@ The applications can be various and are solely developed for fun amongst the tea
 
 This is the first app I've developed for the teamapps category; it's a simple milk management service that manages who buys milk for coffe in the office :);
 
-- Milk app frontend:
+- Milk app frontend: https://github.com/Slidem/team-apps-milk-front
 - Authentication server (backend): https://github.com/Slidem/team-apps-oauth2-server
 - Authentication server (frontend): https://github.com/Slidem/team-apps-login
 
@@ -18,6 +18,3 @@ This is the first app I've developed for the teamapps category; it's a simple mi
 - Spring data
 - PostgreSQL
 - Flyaway (for database migration)
-
-
-
